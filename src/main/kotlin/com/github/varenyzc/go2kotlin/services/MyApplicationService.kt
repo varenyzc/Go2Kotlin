@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.varenyzc.go2kotlin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.varenyzc.go2kotlin.MyBundle
 
 class MyApplicationService {
 
